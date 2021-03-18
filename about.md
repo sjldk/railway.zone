@@ -1,7 +1,7 @@
 # About
 Hi, I'm Søren, I live in Denmark. Welcome to my pages on model railways, in particular the German model railway in H0.
 
-## Contact information**
+## Contact information
 Unfortunately, I had to take down the contact page due to heavy amounts of spam mail. If you would like to get in touch or have a question, you can mail me at "info (at) railway.zone". 
 
 ![Me in front of a Märklin logo](images\about\me_in_front_of_maerklin_logo.jpg)
