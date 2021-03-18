@@ -36,7 +36,7 @@ Please enjoy the site!
 
 _Happy modelling!_
 
-![A TRIX model of a EVB Hercules locmotive](images\about\images/about/trix_evb_hercules_locomotive_model.jpg)
+![A TRIX model of a EVB Hercules locmotive](images\about\trix_evb_hercules_locomotive_model.jpg)
 
 # Disclaimer
 Since 2015, I have been working for Märklin in the Scandinavian area with customer relations regarding the digital products and educating people on how to get the most of the products. This is a part time job from my day job which is software development. The views and opinions on this website reflect my own personal opinion and not in any way the opinion of Märklin. Nobody is paying me to do these articles and nobody is reviewing the content before it is posted. This website is my own personal part of the wonderful hobby that is model trains.
