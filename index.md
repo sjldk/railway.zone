@@ -1,6 +1,4 @@
-[About](about.md)
-
-[Reviews](reviews/review-c-track-platforms-from-noch.md)
+[Reviews](reviews/review-c-track-platforms-from-noch.md) | [About](about.md)
 
 ## Welcome to GitHub Pages
 

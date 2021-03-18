@@ -42,7 +42,7 @@ The sets have the following part numbers:
 * Starter's pack: 66020 (2 rounded pieces, 1 straight and 1 straight crossing).
 
 ![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_h.jfif)
-_Photo: NOCH_
+<br/>_Photo: NOCH_
 
 The prices can seem a bit expensive, but remember that you are free from assembly, painting and the needed length is easily calculated. The platforms are also easily re-used on another layout, since the hard foam resists almost everything. If you don't glue them too hard to the baseboard (I suggest using spots of glue from a glue gun), you should be good to go. Convenience have a cost.
 
