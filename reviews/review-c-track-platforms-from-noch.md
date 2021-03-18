@@ -9,29 +9,29 @@ I ordered a pack of the NOCH platforms to check them out. They are very nice and
 
 The platforms are 38 mm (~1.5 inches) wide, so they will fit between the free space on the C-track (with 24 degree turnouts, 77,5 mm or ~2.9 inches) or the space between the slim turnouts if you expand the track a bit. You need the 64 mm (~2.5 inches) C-track piece for this (2-rail use Trix 62064, Märklin 24064 for 3-rail).
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_a.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_a.jfif)
 
 The platforms are "hand painted" which probably boils down to a sort of grey wash. They look very good, but definitely could need a bit of additional weathering if you like. You don't need to, but it will enhance the overall impression. It is definitely possible to customize the platforms to your liking.
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_b.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_b.jfif)
 
 All the pieces are 18 cm (~7.1 inches) long. You can use them as is on your temporary layout, which is quite nice. I imagine a scenario where you would like some platforms, but you can't have a permanent layout. These are great because you can piece them together as you like, to suit the needs of the layout that you are currently building. They work great on the floor as well. ~18 cm is also the length of a standard piece of C-track (Trix 62188, Märklin 24188).
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_c.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_c.jfif)
 
 The platforms comes in several different types. You have end pieces, middle pieces, pieces with room for a crossing. Below are some pictures of different configurations.
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_e.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_e.jfif)
 
 The end pieces brings the platform to ground level. They are easily combined with other pieces.
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_f.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_f.jfif)
 
 The crossing section allows passengers to cross the track to another platform. You can combine this with some of the crossings from NOCH as well.
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_g.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_g.jfif)
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_h.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_h.jfif)
 
 There is also a "starter's pack" where you get everything you need to build platforms for a small station. The set also includes some special rounded pieces that will fit into the angle of the 24 degree C-track turnout (R2).
 
@@ -48,7 +48,7 @@ The prices can seem a bit expensive, but remember that you are free from assembl
 
 The packaging are small boxes with WAY to much space inside. I hope they use recycled cardboard.
 
-![NOCH C-track platform with C-track](./images/noch-platforms/noch_c_track_platform_packaging_i.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_packaging_i.jfif)
 
 Note! Remember to shake the package before leaving the store. The platforms weigh absolutely nothing, and I managed to get home with an empty box. Shaking the box will reveal if there is anything inside. I don't think this is much of a problem, just in case, I wrote NOCH to let them know about the potential problem.
 
