@@ -2,11 +2,11 @@
 Hi, I'm Søren, I live in Denmark. Welcome to my pages on model railways, in particular the German model railway in H0.
 
 ## Contact information
-Unfortunately, I had to take down the contact page due to heavy amounts of spam mail. If you would like to get in touch or have a question, you can mail me at "info (at) railway.zone". 
+If you would like to get in touch or have a question, you can mail me at "info (at) railway.zone".
 
 ![Me in front of a Märklin logo](images\about\me_in_front_of_maerklin_logo.jpg)
 
-## My Train Hobby
+## How it all began
 I got my first train set at the age of five, it was a Märklin train set. I loved my Märklin train set and played with it a lot, as you can see on the picture below, my first locomotive has taken some beating over the years, but I still have it. It is retired now, just like the real railway, more modern locomotives have taken its place.
 
 Over the years the hobby has been on and off. I bet that most of us in the hobby can recognize this pattern. In 2007 I picked the hobby up again, starting over with a new Märklin train set. I was amazed that I could still run my older Märklin as well.

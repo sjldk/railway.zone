@@ -50,7 +50,7 @@ The packaging are small boxes with WAY to much space inside. I hope they use rec
 
 ![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_packaging_i.jfif)
 
-Note! Remember to shake the package before leaving the store. The platforms weigh absolutely nothing, and I managed to get home with an empty box. Shaking the box will reveal if there is anything inside. I don't think this is much of a problem, just in case, I wrote NOCH to let them know about the potential problem.
+**Note!** Remember to shake the package before leaving the store. The platforms weigh absolutely nothing, and I managed to get home with an empty box. Shaking the box will reveal if there is anything inside. I don't think this is much of a problem, just in case, I wrote NOCH to let them know about the potential problem.
 
 All in all a very good product that I am sure will ease the way platforms are made with the C-track. The platforms are easy to use and provides a great impression. You can, of course, use them with other types of track with built-in ballast.
 
