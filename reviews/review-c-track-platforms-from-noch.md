@@ -21,17 +21,16 @@ All the pieces are 18 cm (~7.1 inches) long. You can use them as is on your temp
 
 The platforms comes in several different types. You have end pieces, middle pieces, pieces with room for a crossing. Below are some pictures of different configurations.
 
-![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_e.jfif)
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_d.jfif)
 
 The end pieces brings the platform to ground level. They are easily combined with other pieces.
 
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_e.jfif)
 ![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_f.jfif)
 
 The crossing section allows passengers to cross the track to another platform. You can combine this with some of the crossings from NOCH as well.
 
 ![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_g.jfif)
-
-![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_h.jfif)
 
 There is also a "starter's pack" where you get everything you need to build platforms for a small station. The set also includes some special rounded pieces that will fit into the angle of the 24 degree C-track turnout (R2).
 
@@ -42,7 +41,8 @@ The sets have the following part numbers:
 * Platform, end piece: 66015 (2 pc.)
 * Starter's pack: 66020 (2 rounded pieces, 1 straight and 1 straight crossing).
 
-Photo: NOCH
+![NOCH C-track platform with C-track](../images/noch-platforms/noch_c_track_platform_h.jfif)
+_Photo: NOCH_
 
 The prices can seem a bit expensive, but remember that you are free from assembly, painting and the needed length is easily calculated. The platforms are also easily re-used on another layout, since the hard foam resists almost everything. If you don't glue them too hard to the baseboard (I suggest using spots of glue from a glue gun), you should be good to go. Convenience have a cost.
 
