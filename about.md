@@ -1,11 +1,12 @@
-#About
+# About
 Hi, I'm Søren, I live in Denmark. Welcome to my pages on model railways, in particular the German model railway in H0.
 
-**Contact information**
+## Contact information**
 Unfortunately, I had to take down the contact page due to heavy amounts of spam mail. If you would like to get in touch or have a question, you can mail me at "info (at) railway.zone". 
 
-![Image](images\about\me_in_front_of_maerklin_logo.jpg)
+![Me in front of a Märklin logo](images\about\me_in_front_of_maerklin_logo.jpg)
 
+## My Train Hobby
 I got my first train set at the age of five, it was a Märklin train set. I loved my Märklin train set and played with it a lot, as you can see on the picture below, my first locomotive has taken some beating over the years, but I still have it. It is retired now, just like the real railway, more modern locomotives have taken its place.
 
 Over the years the hobby has been on and off. I bet that most of us in the hobby can recognize this pattern. In 2007 I picked the hobby up again, starting over with a new Märklin train set. I was amazed that I could still run my older Märklin as well.
@@ -20,9 +21,9 @@ One thing I am fanatic about though, is the running number on the locomotives, w
 
 My first ever Märklin locomotive. As you can tell it has been played with - a lot! :-)
 
-![Image](images\about\my-first-loco.jfif)
+![My very first Märklin locomotive](images\about\my-first-loco.jfif)
 
-#My Model Railway World
+# My Model Railway World
 I model the modern German railway. I like to model the era from 1990 and up until today, but my interest in the railway history takes me beyond those limits as well. My collection represents a selection of modern German locomotives, goods wagons and coaches. Most of them are from Trix and Roco. As mentioned I am a huge fan of Trix models with all their features and details.
 
 A great passion of mine is to go to exhibitions with my modular layout. The layout is designed to show people how to get the most from the digital products that they can buy. My layout is run automatically by the Märklin Central Station 2 with the help from the many digital components in this system.
@@ -35,7 +36,7 @@ Please enjoy the site!
 
 _Happy modelling!_
 
-![Image](images\about\images/about/trix_evb_hercules_locomotive_model.jpg)
+![A TRIX model of a EVB Hercules locmotive](images\about\images/about/trix_evb_hercules_locomotive_model.jpg)
 
-#Disclaimer
+# Disclaimer
 Since 2015, I have been working for Märklin in the Scandinavian area with customer relations regarding the digital products and educating people on how to get the most of the products. This is a part time job from my day job which is software development. The views and opinions on this website reflect my own personal opinion and not in any way the opinion of Märklin. Nobody is paying me to do these articles and nobody is reviewing the content before it is posted. This website is my own personal part of the wonderful hobby that is model trains.
